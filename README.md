@@ -1,2 +1,2 @@
 # Mapping_Earthquakes
-Using Java and API calling to make a map of earthquakes
+Using Javascript and APIs to map out Earthquakes
